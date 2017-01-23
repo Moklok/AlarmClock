@@ -1,6 +1,6 @@
-alarm
+AlarmClock
 =====
-Alarm for Windows
+AlarmClock for Windows
 
 The software allows for user to set alarm tone, snooze time and set time for alarm in the 24 hour range.This is a freeware utility written in Python 2.7 and compiled to exe format using py2exe.
 
